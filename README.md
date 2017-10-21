@@ -682,4 +682,4 @@ Signed,
 - Dan Segal ([@djsegal](https://github.com/djsegal)), Software Engineer
 - Raphael Costa ([@raphaelcosta](https://github.com/raphaelcosta)), Head of Platfrom at [Pipefy](https://www.pipefy.com/developers/)
 - Rômulo Fernandes ([@romulof](https://github.com/romulof)), Software Engineer
-- Ankit Singh ([@ank-it](https://github.com/ank-it)), Software Engineer
+- Merzak Seven ([@merzak7](https://github.com/merzak7)), Full Stack Developer, Algeria
